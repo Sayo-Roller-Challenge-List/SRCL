@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "FPS": "CBF",
     "records": [
-        
+        {
+            "user": "JayGol",
+            "link": "https://medal.tv/games/geometry-dash/clips/mlG0aA5p9ODfIQPy6?invite=cr-MSxob2UsNTc1MDM1OTI1",
+            "percent": 100,
+            "hz": "CBF"
+        }
     ]
 }
