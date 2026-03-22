@@ -103,7 +103,7 @@ export default {
                         </ol>
                     </template>
                     <p>
-                        <a href="https://www.youtube.com/@Metal-e8c" target="_blank">Tutorial to roll and roll click</a>
+                        <a href="https://www.youtube.com/@Metal-e8c" target="_blank">Click me! Tutorial to roll and roll click</a>
                     </p>
                     <p>
                         This list is specific to Sayo device users or those that possess a Sayo device.
