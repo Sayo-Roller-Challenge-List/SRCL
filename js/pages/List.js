@@ -102,9 +102,11 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <p>
-                        <a href="https://youtu.be/46J6sndaQSM" target="_blank">Click me! Tutorial to roll and roll click</a>
-                    </p>
+                    <h3>
+                        <a href="https://youtu.be/46J6sndaQSM" target="_blank" class="tutorial-link">
+                            Click me! Tutorial to roll and roll click
+                        </a>
+                    </h3>
                     <p>
                         This list is specific to Sayo device users or those that possess a Sayo device.
                     </p>
